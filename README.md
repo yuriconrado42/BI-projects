@@ -1,2 +1,2 @@
 # BI-projects
-My Business Intelligence repository
+My Power BI repository
